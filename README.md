@@ -2,9 +2,8 @@
 
 I am an experienced software engineer and IT project manager currently based in Germany.
 
-Front-end development and UX/UI design are my passion. I develop and scale complex software systems that deliver a great user experience. 
-I'm particularly enthusiastic about digitalizing business processes with the goal of significantly reducing manual work through intelligent automation.
-As a Tech Lead, I combine in-depth technical expertise with a structured approach to work. I motivate development teams, encourage knowledge sharing and manage projects from concept through to successful implementation.
+I am passionate about front-end development and UX/UI design, focusing on the creation of scalable software systems that deliver high-quality user experiences. I enjoy digitalising business processes with the aim of significantly reducing manual work through intelligent automation.
+I believe great software is built through collaboration, knowledge sharing, and a structured approach. Combining deep technical expertise with hands-on leadership, I manage development teams and projects from concept to successful implementation.
 
 I created this account to present selected projects, share experiences, gather ideas, try out new technologies and, last but not least, to continue my professional development.
 
